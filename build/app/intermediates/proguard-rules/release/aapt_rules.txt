@@ -1,0 +1,6 @@
+# Referenced at E:\Phatt new CFD\NSC SumrabThan 2020\App\App\sumrabthan_version01\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:14
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at E:\Phatt new CFD\NSC SumrabThan 2020\App\App\sumrabthan_version01\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:18
+-keep class com.example.sumrabthan_version01.MainActivity { <init>(); }
+# Referenced at E:\Phatt new CFD\NSC SumrabThan 2020\App\App\sumrabthan_version01\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:60
+-keep class io.flutter.plugins.imagepicker.ImagePickerFileProvider { <init>(); }

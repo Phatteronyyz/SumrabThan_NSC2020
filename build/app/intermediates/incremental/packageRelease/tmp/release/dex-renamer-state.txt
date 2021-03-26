@@ -1,0 +1,4 @@
+#Sat Feb 06 21:08:47 ICT 2021
+base.0=E\:\\Phatt new CFD\\NSC SumrabThan 2020\\App\\App\\sumrabthan_version01\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
